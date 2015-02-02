@@ -5,17 +5,6 @@
 ########
 
 
-#!C:\Python27\python.exe -u
-#Mini-project #6 - Blackjack
-###Program-ID    : MemoryGame.py
-###                http://www.codeskulptor.org/#user14_pxLeLoMP8q_0.py
-###Date Written   : June, 2013
-###Author         : YM
-###Coursera Course: An Introduction to Interactive Programming in Python 
-###Assgn/Project  : Mini Project#6
-###Description: Game - Pong
-#    -  Number of players: 1
-#    - 
 ###
 # Input arguments and flags:
 # Ouput:
